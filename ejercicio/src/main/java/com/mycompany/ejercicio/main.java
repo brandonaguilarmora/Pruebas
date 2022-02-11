@@ -14,5 +14,6 @@ public class main {
         System.out.println("Chao Mundo");
         int a=0;
         System.out.println(a);
+        System.out.println(a);
     }
 }
