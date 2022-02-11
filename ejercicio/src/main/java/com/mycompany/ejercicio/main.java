@@ -13,5 +13,6 @@ public class main {
         System.out.println("Hola Mundo");
         System.out.println("Chao Mundo");
         int a=0;
+        System.out.println(a);
     }
 }
